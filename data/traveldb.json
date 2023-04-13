@@ -1,40 +1,10 @@
 {
   "destination": [
     {
-      "id": 1,
-      "city": "New York",
-      "country": "USA",
-      "daysNeeded": 3
-    },
-    {
-      "id": 2,
-      "city": "Chicago",
-      "country": "USA",
+      "id": 85.62545136524193,
+      "city": "i love react",
+      "country": "me too",
       "daysNeeded": 5
-    },
-    {
-      "id": 69.18288199128897,
-      "city": "York New",
-      "country": "BadPeopleIstan",
-      "daysNeeded": 2
-    },
-    {
-      "id": 5.913752650117399,
-      "city": "ada",
-      "country": "dadad",
-      "daysNeeded": 3
-    },
-    {
-      "id": 74.13676245106143,
-      "city": "new ",
-      "country": "ednfwoe",
-      "daysNeeded": 7
-    },
-    {
-      "id": 94.70466345278336,
-      "city": "fokin nice",
-      "country": "yes",
-      "daysNeeded": 2
     }
   ]
 }
