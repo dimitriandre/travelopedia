@@ -13,9 +13,12 @@ function DestinationList() {
       return (
         <article key={destination.id}>
           <div className="text-center text-info p-2">
-            <div>
-              {destination.city}, {destination.country} -{" "}
-              {destination.daysNeeded} days
+            <div className="text-center row">
+              <div className="col-2 offset-3">
+                {destination.city}, {destination.country}
+              </div>
+              <div className="col-2">{destination.daysNeeded} days</div>
+              <button className="btn btn-danger col-2">Delete</button>
             </div>
           </div>
         </article>
